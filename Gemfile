@@ -34,6 +34,7 @@ end
 gem 'best_in_place', :git => 'https://github.com/aaronchi/best_in_place.git'
 gem 'jquery-ui-rails'
 gem 'devise'
+gem 'passenger'
 
 
 # Use ActiveModel has_secure_password
